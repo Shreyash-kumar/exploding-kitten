@@ -1,0 +1,1 @@
+export const cards = ['Cat 😼', 'Defuse 🙅‍♂️', 'Shuffle 🔀', 'Exploding Kitten 💣'];
